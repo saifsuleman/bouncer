@@ -1,0 +1,5 @@
+name: PurpleBouncer
+version: ${project.version}
+main: net.saifs.purplebouncer.PurpleBouncer
+authors: [Saif]
+website: github.com/saifsuleman
